@@ -21,6 +21,7 @@ A robust, enterprise-grade test automation framework designed and developed by *
 - **Portfolio**: [nivenk-portfolio.netlify.app](https://nivenk-portfolio.netlify.app)  
 - **Repository**: [Automation_testing](https://github.com/nivethithasenthilkumar/Automation_testing)  
 - **Live Test Dashboard**: [https://nivethithasenthilkumar.github.io/Automation_testing/](https://nivethithasenthilkumar.github.io/Automation_testing/)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/df5b66d3-546f-46d7-ba92-eb0fa3eac2a3" />
 
 ---
 
@@ -87,6 +88,7 @@ Automation_testing/
 3. **Listener Architecture**: `TestListener` intercepts test execution events to capture full-page screenshots on failure, record video clips (when configured), and stream status updates into ExtentReports.
 
 ---
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/af4d4f16-75da-4b88-8279-963b00206fa9" />
 
 ## ⚙️ Prerequisites & Setup
 
