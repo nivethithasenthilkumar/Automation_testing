@@ -1,6 +1,7 @@
 # Automation Testing Framework
 
 [![Author](https://img.shields.io/badge/Author-Nivethitha%20Senthilkumar-blue.svg)](https://github.com/nivethithasenthilkumar)
+[![Live Report Dashboard](https://img.shields.io/badge/Live%20Report%20Dashboard-View%20Execution-22c55e.svg?logo=googlechrome&logoColor=white)](https://nivethithasenthilkumar.github.io/Automation_testing/)
 [![Repository](https://img.shields.io/badge/Repository-Automation__testing-green.svg)](https://github.com/nivethithasenthilkumar/Automation_testing)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.x-brightgreen.svg)](https://www.selenium.dev/)
@@ -9,13 +10,17 @@
 
 A robust, enterprise-grade test automation framework designed and developed by **Nivethitha Senthilkumar** using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**. This framework implements the **Page Object Model (POM)** design pattern with thread-safe parallel test execution, modular keyword abstractions, comprehensive HTML/ExtentReports reporting, and CI/CD readiness.
 
+🔗 **Live Test Execution Dashboard**: [https://nivethithasenthilkumar.github.io/Automation_testing/](https://nivethithasenthilkumar.github.io/Automation_testing/)
+
 ---
 
 ## 👤 Author & Maintainer
 
 **Nivethitha Senthilkumar**  
 - **GitHub Profile**: [@nivethithasenthilkumar](https://github.com/nivethithasenthilkumar)  
-- **Repository**: [Automation_testing](https://github.com/nivethithasenthilkumar/Automation_testing)
+- **Portfolio**: [nivenk-portfolio.netlify.app](https://nivenk-portfolio.netlify.app)  
+- **Repository**: [Automation_testing](https://github.com/nivethithasenthilkumar/Automation_testing)  
+- **Live Test Dashboard**: [https://nivethithasenthilkumar.github.io/Automation_testing/](https://nivethithasenthilkumar.github.io/Automation_testing/)
 
 ---
 
