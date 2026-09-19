@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SauceDemo Automation Suite" parallel="none">
+
+    <listeners>
+        <listener class-name="com.nivethithasenthilkumar.automation.listeners.TestListener"/>
+        <listener class-name="com.nivethithasenthilkumar.automation.listeners.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="SauceDemo Login Tests">
+        <parameter name="BROWSER" value="chrome"/>
+        <classes>
+            <class name="com.nivethithasenthilkumar.automation.projects.saucedemo.testcases.SauceLoginTest"/>
+        </classes>
+    </test>
+
+</suite>

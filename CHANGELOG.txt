@@ -1,0 +1,9 @@
+v1.0.0
+======
+Initial release of the Selenium Java + TestNG test automation framework by Nivethitha Senthilkumar.
+* Modular Page Object Model (POM) architecture
+* Selenium WebDriver 4.x with cross-browser and headless support (Chrome, Firefox, Edge)
+* TestNG integration with parallel execution and retry listeners
+* ExtentReports 5 and Allure reporting
+* Data-driven testing with Apache POI and DataFaker
+* Added SauceDemo e-commerce login automated test suite

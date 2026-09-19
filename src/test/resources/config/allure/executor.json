@@ -1,0 +1,10 @@
+{
+   "name": "GitHub Actions",
+   "type": "github",
+   "url": "https://github.com/nivethithasenthilkumar/Automation_testing",
+   "buildOrder": 1,
+   "buildName": "Allure Report | Automation Testing",
+   "buildUrl": "https://github.com/nivethithasenthilkumar/Automation_testing",
+   "reportUrl": "https://github.com/nivethithasenthilkumar/Automation_testing",
+   "reportName": "Allure Report | Automation Testing"
+}
